@@ -1,4 +1,4 @@
-<p align="center" font-size=15px><b>Hi there i'm Jeff</b> a young developer</p>
+<p align="center"><h2><b>Hi there i'm Jeff</b> a young developer</h2></p>
 
 <a href="https://github.com/miyamusaxi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamusaxi&show_icons=true&theme=tokyonight" />

@@ -1,9 +1,11 @@
-## Hi there i'm Jeff a young developer👌
+<p align="center">##<b>Hi there i'm Jeff</b> a young developer</p>
 
 <a href="https://github.com/miyamusaxi/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamusaxi&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamusaxi&show_icons=true&theme=tokyonight" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamusaxi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/miyamusaxi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyamusaxi&layout=donut&theme=tokyonight" />
+</a>
 
 
 

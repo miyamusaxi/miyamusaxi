@@ -9,7 +9,4 @@
 </p>
 <hr>
 <div>
-  <br>
-  <br>
-  If you want to use a dashboard like this <a href="https://github.com/anuraghazra/github-readme-stats">dashboard template</a>
 </div>
